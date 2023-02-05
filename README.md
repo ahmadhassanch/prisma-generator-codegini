@@ -1,2 +1,3 @@
 # prisma-generator-codegini
-Generator for Prisma (generates DTOs, etc)
+
+> This generator was bootstraped using [create-prisma-generator](https://github.com/YassinEldeeb/create-prisma-generator)
